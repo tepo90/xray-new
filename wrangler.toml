@@ -1,8 +1,8 @@
-name = "sub"
+name = "vpn98.ahsan-tepo1383online"
 main = "src/worker.ts"
 compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "settings", id = "KV_NAME" }
+  { binding = "settings", id = "panel-kv-2025-07-13_19-00-20" }
 ]
